@@ -1,0 +1,19 @@
+python-docx
+python-pptx
+pymupdf
+pdfplumber
+beautifulsoup4
+pandas
+supabase
+qdrant-client
+openpyxl
+tqdm
+langchain-core # Updated from langchain-community
+sentence-transformers
+langchain-huggingface # Updated package name
+langchain
+transformers
+langchain-google-genai
+google-generativeai
+gradio
+numpy
