@@ -106,6 +106,14 @@ print("Context:", context)
 
 ---
 
+---
+
+## 🖥️ Live Demo
+
+* https://huggingface.co/spaces/Hohenhiem/rag-app
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
